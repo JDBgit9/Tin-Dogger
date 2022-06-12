@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JDBgit9/Tin-Dogger/issues"
   },
-  "homepage": "https://github.com/JDBgit9/Tin-Dogger#readme"
+  "homepage": "https://github.com/JDBgit9/Tin-Dogger#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
