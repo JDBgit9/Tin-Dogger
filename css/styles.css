@@ -160,14 +160,16 @@ body {
   
   #cta {
     height: 350px;
+    padding-top: 30px;
   }
   
   .cta-header {
-    font-size: 3.5rem;
+    font-size: 2.0rem;
     line-height: 1.5;
     font-style: bold;
     font-weight: 500;
     color: #fff;
+ 
   }
   
   /* Footer Section */
@@ -178,6 +180,7 @@ body {
   
   .icon {
     margin: 20 10;
+   
   }
   
   @media (max-width: 1028px) {
